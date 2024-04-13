@@ -26,7 +26,7 @@ This File Integrity Monitoring System is developed using Python programming.
       
  Example :
   ```
-   C:\Users\uditu\Desktop\Files\text.docx = sdfde4sfddfsdfd6d915eb037936863a841675f93225c279fad6954sdfdsfc66fcbcd31sddsffsdfbce78ae7dfa2160f8920d0b967af2b7030
+   C:\Users\Yash\Desktop\Files\text.docx = sdfde4sfddfsdfd6d915eb037936863a841675f93225c279fad6954sdfdsfc66fcbcd31sddsffsdfbce78ae7dfa2160f8920d0b967af2b7030
   ```
   
  3. **`Checking Integrity`** : When clicked on the 'Check Integrity' button,
