@@ -1,3 +1,7 @@
+# File Integrity Monitoring System is basically a system that checks the I of the CIA triad of security and
+# to maintain it the hash value of the original directory is stored in a differrent directory and thus saved as a 
+# hash value and if there is any change made to the directory then the hash value of the directory is changed and 
+# then matched to the baseline and thus the both the hash values do not match and thus the integrity is not maintained
 import glob
 import hashlib
 import os
